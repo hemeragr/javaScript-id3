@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "javaScript-id3",
+			"path": "."
+		},
+		{
+			"name": "javaScript-trabajos",
+			"path": "../javaScript-trabajos"
+		}
+	],
+	"settings": {}
+}
